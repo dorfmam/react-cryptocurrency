@@ -63,31 +63,31 @@ The application will be available at `http://localhost:5173`
 
   ```bash 
 
-      cripto-app/
-  ├── node_modules/
-  ├── public/
-  ├── src/
-  │   ├── assets/
-  │   ├── components/
-  │   │   ├── Header/
-  │   │   └── Layout/
-  │   ├── pages/
-  │   │   ├── Home/
-  │   │   └── NotFound/
-  │   ├── App.tsx
-  │   ├── index.css
-  │   ├── main.tsx
-  │   ├── router.tsx
-  │   └── vite-env.d.ts
-  ├── .gitignore
-  ├── eslint.config.js
-  ├── index.html
-  ├── package-lock.json
-  ├── package.json
-  ├── README.md
-  ├── tsconfig.app.json
-  ├── tsconfig.json
-  └── tsconfig.node.json
+  cripto-app/
+    ├── node_modules/
+    ├── public/
+    ├── src/
+    │   ├── assets/
+    │   ├── components/
+    │   │   ├── Header/
+    │   │   └── Layout/
+    │   ├── pages/
+    │   │   ├── Home/
+    │   │   └── NotFound/
+    │   ├── App.tsx
+    │   ├── index.css
+    │   ├── main.tsx
+    │   ├── router.tsx
+    │   └── vite-env.d.ts
+    ├── .gitignore
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    └── tsconfig.node.json
   ```
 
 ---
