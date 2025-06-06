@@ -42,17 +42,13 @@ Make sure you've installed:
 2. Install dependencies
 
   ```bash
-  npm install
-      or
-  yarn install
+  npm install or yarn install
   ```
 
 3. Start the development server
 
   ```bash
-  npm install
-       or
-  yarn install
+  npm start or yarn start
   ```
 
 The application will be available at `http://localhost:5173`
