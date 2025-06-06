@@ -48,11 +48,7 @@ Make sure you've installed:
 3. Start the development server
 
   ```bash
-<<<<<<< HEAD
   npm start or yarn start
-=======
-  npm run dev or yarn dev
->>>>>>> 4d4a1ad (new GIF file added to 'assets' file)
   ```
 
 The application will be available at `http://localhost:5173`
