@@ -43,7 +43,7 @@ Make sure you've installed:
 
   ```bash
   npm install
-  <!-- or -->
+      or
   yarn install
   ```
 
@@ -51,7 +51,7 @@ Make sure you've installed:
 
   ```bash
   npm install
-  <!-- or -->
+       or
   yarn install
   ```
 
