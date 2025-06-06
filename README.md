@@ -1,10 +1,10 @@
-# DevCurrency - Cryptocurrencies
+# DevCurrency - Cryptocurrencies 💰
 
 DevCurrency is a web application that provides real-time information on changes in the market value of all cryptocurrencies on the market, providing details of each currency in an organized and detailed manner.
 
 ---
 
-## Features
+## Features 📋
 
 - **Coin**: The current cryptocurrency.
 - **Market Value**: The current market value converted to BRL.
@@ -14,7 +14,7 @@ DevCurrency is a web application that provides real-time information on changes 
 
 ---
 
-## Technologies
+## Technologies 💻
 
 - **React**: A JavaScript library used for user interface.
 - **React Router**: Routing management in the application.
@@ -23,14 +23,14 @@ DevCurrency is a web application that provides real-time information on changes 
 
 ---
 
-## Installation & Setup
+## Installation & Setup 🔧
 
 Make sure you've installed:
 
 - **Node.js** (v14 or higher)
 - **npm** or **yarn**
 
-### Steps to run the project locally
+### Steps to run the project locally 📌
 
 1. Clone the repository
 
@@ -53,9 +53,13 @@ Make sure you've installed:
 
 The application will be available at `http://localhost:5173`
 
+### Project Demo 🎬
+
+![Preview da aplicação](./src/assets/demo.gif)
+
 ---
 
-## Project Structure
+## Project Structure 📂
 
   ```bash 
 
@@ -88,7 +92,7 @@ The application will be available at `http://localhost:5173`
 
 ---
 
-Contributions
+## Contributions 👥
 
 Feel free to contribute! To contribute:
 
