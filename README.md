@@ -55,7 +55,7 @@ The application will be available at `http://localhost:5173`
 
 ### Project Demo 🎬
 
-![Preview da aplicação](./src/assets/demo.gif)
+![Preview da aplicação](./cripto-app/src/assets/demo.gif)
 
 ---
 
